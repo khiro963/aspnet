@@ -1,0 +1,97 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:100%;
+    
+    background-color:#ececec;
+   
+}
+#first_section{
+    background-color:#a52631;
+    padding-left:2%;
+    width:96%;
+    height:30%;
+    padding:2%;
+    margin-bottom:0%;
+}
+#Home_btn,#Programlarmız_btn,#About_btn,#Contacts_btn,#Admin_btn{
+    border: none;
+    background-color:transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    color: white;
+    font-size:2.5vw;
+    margin-left:9%;
+    font-weight:200;
+}
+#crossfit,#yoga,#boxing,#bodyBuilding,#judo{
+    display: flex;
+    justify-content: center;
+    margin-bottom:0%;
+}
+
+#img1,#img2,#img3,#img4,#img5{
+    background-size:cover;
+    background-position:center;
+    width:50%;
+    height:auto;
+}
+#img1{
+    background-image:url(/img/crossfit.jpg);
+    
+}
+#img2{
+    background-image:url(/img/yoga.jpg);
+    }
+#img3{
+    background-image:url(/img/boxing.jpg);
+}
+#img4{
+    background-image:url(/img/body_building.jpg);
+}
+#img5{
+    background-image:url(/img/judo.jpg);
+}
+#aciklama{
+    width:50%;
+    padding-bottom:3%;
+    padding-top:1.5%;
+}
+.aciklama1 {
+    background-color:white;
+    
+    color:black;
+    
+}
+.aciklama2{
+    background-color:#a52631;
+    color:white;
+
+}
+.aciklama3{
+    background-color:white;
+    color:black;
+}
+.aciklama4{
+    background-color:#a52631;
+    color:white;
+}
+.aciklama5{
+    background-color:white;
+    color:black;
+}
+.baslik{
+    font-size:4vw;
+    font-weight:600;
+    margin-left:5%;
+
+}
+.par, .zmn, .traineer, .fiyet{
+    font-size:2vw;
+    margin-left:5%;
+    margin-right:5%;
+    font-weight:500;
+    
+}

@@ -1,0 +1,116 @@
+﻿*{
+    padding:0;
+    margin:0;
+}
+
+body{
+
+}
+#welcome{
+    font-size:6vw;
+
+}
+#first_section{
+    background-color:#a52631;
+    opacity:1;
+    padding-left:2%;
+    width:96%;
+    height:30%;
+    padding:3%;
+    margin-bottom:5%;
+}
+#Home_btn,#Programlarmız_btn,#About_btn,#Contacts_btn,#Admin_btn{
+    border: none;
+    background-color:transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    color: white;
+    font-size:2vw;
+    margin-left:9%;
+    font-weight:200;
+}
+
+#second_section{
+    width:100%;
+    height:auto;
+    padding-top:5%;
+    padding-bottom:7%;
+    background-color:balck; 
+    
+  
+}
+#par{
+    width:70%;
+    margin-left:10%;
+
+}
+p{
+    font-size:2vw;
+    font-weight:200;
+}
+#third_section{
+    width:100%;
+    margin-left:15;
+    margin-top:5%;
+    
+}
+#first,#second{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    overflow:auto;
+    width:100%;
+}
+#team{
+    margin-left:10%;
+    font-size:5vw;
+}
+#first_trainer,#second_trainer,#third_trainer,#forth_trainer,#fifth_trainer,#sixth_trainer{
+    width:25%;
+    margin-left:5%;
+    margin-bottom:5%;
+    background-color:#a52631;
+    height:auto;
+    padding-bottom:1%;
+    
+    
+}
+
+.img{
+    
+    background-position:center;
+    background-repeat:no-repeat;
+    width:100%;
+    height:200px;
+    margin-bottom:5%;   
+}
+
+.txtbx{
+    width:70%;
+    text-align:center;
+    margin-left:15%;
+    font-size:2vw;
+    font-weight:500;
+    background-color:transparent;
+    border:none;
+    color:white;
+}
+
+#img1{
+    background-image:url(/img/tr.jpg);
+}
+#img2{
+    background-image:url(/img/tr.jpg);
+}
+#img3{
+    background-image:url(/img/tr.jpg);
+}
+#img4{
+    background-image:url(/img/tr.jpg);
+}
+#img5{
+    background-image:url(/img/tr.jpg);
+}
+#img6{
+    background-image:url(/img/tr.jpg);
+}

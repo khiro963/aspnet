@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\classes\bin\Debug\classes.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\classes\bin\Debug\classes.pdb
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\classes\obj\Debug\classes.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\classes\obj\Debug\classes.pdb
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\classes\obj\Debug\classes.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\bin\Debug\classes.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\bin\Debug\classes.pdb
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\obj\Debug\classes.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\obj\Debug\classes.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\classes\obj\Debug\classes.pdb

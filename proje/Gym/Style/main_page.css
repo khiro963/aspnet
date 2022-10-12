@@ -1,0 +1,71 @@
+﻿body {
+    
+}
+#main_page{
+    background-image:url(/img/Background2.jpg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:100%;
+    height:auto;
+    padding-top:1%;
+}
+#first_section{
+    /*background-color:#000000;
+    opacity:0.3;*/
+    padding-left:2%;
+    width:47%;
+    height:30%;
+    padding:2%;
+    margin-bottom:5%;
+}
+#second_section{
+    margin-left:10%;
+    width:27%;
+    height:69%;
+}
+
+
+#Home_btn,#Programlarmız_btn,#About_btn,#Contacts_btn,#Admin_btn{
+    border: none;
+    background-color:transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    color: white;
+    font-size:1.5vw;
+    margin-left:2%;
+    font-weight:200;
+}
+#logo{
+    margin-left:28%;
+    margin-bottom:0;
+    width:50%;
+    height:50%;
+
+}
+#h1{
+    font-size:4vw;
+    color:#a52631;
+    text-align:center;
+    font-weight:700;
+}
+#h2{
+    font-size:3vw;
+    color:white;
+     text-align:center;
+}
+#login_btn{
+    margin-left:25%;
+    width:50%;
+    height:auto;
+    font-size:1.5vw;
+    padding:3%;
+    border-radius:100px;
+    background-color:white;
+    color:#a52631;
+    margin-bottom:40%;
+    font-family:'Berlin Sans FB';
+    font-weight:200;
+    cursor:pointer;
+
+
+}

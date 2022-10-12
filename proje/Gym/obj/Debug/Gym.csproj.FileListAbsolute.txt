@@ -1,0 +1,146 @@
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\ApplicationInsights.config
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\csc.exe
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\vbc.exe
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Gym.dll.config
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Gym.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Gym.pdb
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Web.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Web.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.pdb
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\classes.dll
+C:\Users\TOSHIBA\Desktop\3.Dönem\Nesne\Proje\ProjeDosyasi\Gym\Gym\bin\classes.pdb
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\ApplicationInsights.config
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\csc.exe
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\vbc.exe
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Gym.dll.config
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Gym.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Gym.pdb
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\classes.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Web.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\classes.pdb
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.Web.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.dll
+C:\Users\Mehmet\Desktop\ProjeDosyasi\Gym\Gym\obj\Debug\Gym.pdb
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\ApplicationInsights.config
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\csc.exe
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\vbc.exe
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Gym.dll.config
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Gym.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Gym.pdb
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\classes.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.Web.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\classes.pdb
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.Web.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet\Desktop\final\proje\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\final\proje\Gym\obj\Debug\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\final\proje\Gym\obj\Debug\Gym.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\final\proje\Gym\obj\Debug\Gym.dll
+C:\Users\Mehmet\Desktop\final\proje\Gym\obj\Debug\Gym.pdb
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\ApplicationInsights.config
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\csc.exe
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\vbc.exe
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Gym.dll.config
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Gym.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Gym.pdb
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\classes.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.Web.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\classes.pdb
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.Web.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csproj.CopyComplete
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.dll
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.pdb
