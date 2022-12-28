@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\proje",
-    "\\proje\\classes",
-    "\\proje\\classes\\obj",
+    "\\proje\\classes\\bin",
     "\\proje\\Gym",
     "\\proje\\Gym\\App_Data",
-    "\\proje\\Gym\\img",
+    "\\proje\\Gym\\scripts",
+    "\\proje\\Gym\\Style",
     "\\proje\\packages"
   ],
-  "SelectedNode": "\\proje\\Gym\\Admin.aspx",
+  "SelectedNode": "\\proje\\Gym\\Gym.csproj",
   "PreviewInSolutionExplorer": false
 }

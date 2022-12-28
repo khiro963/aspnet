@@ -139,8 +139,8 @@ C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.Web.xml
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.ApplicationInsights.xml
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csprojAssemblyReference.cache
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csproj.CoreCompileInputs.cache
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csproj.CopyComplete
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.dll
 C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.pdb
+C:\Users\Mehmet\Desktop\khiro altamr final\proje\Gym\obj\Debug\Gym.csproj.AssemblyReference.cache
